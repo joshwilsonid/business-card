@@ -12,6 +12,11 @@ body {
     font-family: 'Lucida Sans', sans-serif;
 }
 
+body {
+    margin: 20px;
+    font-family: 'Lucida Sans', sans-serif;
+}
+
 .avatar {
     width: 120px;
     height: 120px;
