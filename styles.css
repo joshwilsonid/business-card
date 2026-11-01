@@ -6,7 +6,7 @@ body {
     to your card.
     */
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+}
 .avatar {
     margin-top: 10px;
     height: 120px;
@@ -21,7 +21,7 @@ body {
     justify-content: space-around;
     text-align: center;
     background: whitesmoke;
-    color: #White;
+    color: White;
     box-shadow: 3px 4px 4px grey;
         
     /*
